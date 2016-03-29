@@ -1,6 +1,6 @@
 #! /usr/bin/env ruby
 #
-# Prints all git ssh urls for repos owned by HRC.
+# Prints all users and their locations who have starred a repo.
 
 require "rubygems" unless defined?(Gem)
 require "bundler/setup"
